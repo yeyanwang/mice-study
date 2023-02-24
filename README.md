@@ -1,6 +1,6 @@
 # Pymaceuticals Inc. Analysis
 
-The Jupyter Source file **pymaceuticals.ipynb** reads in 2 datasets (**Mouse_metadata.csv** and **Study_results.csv**) from the **data** folder. Pandas library was imported to create and merge DataFrames, Scipy library was imported to help with statistical analysis and Matplotlib library was imported to help creating various type of data visualization.
+The Jupyter Source file `pymaceuticals.ipynb` reads in 2 datasets (`Mouse_metadata.csv` and `Study_results.csv`) from the `data` folder. Pandas library was imported to create and merge DataFrames, Scipy library was imported to help with statistical analysis and Matplotlib library was imported to help creating various type of data visualization.
 
 Findings:
 - There are in total 10 types of drug regimens tested on mice in this study, with 9 treatments and 1 placebo. "Capomulin" was tested 230 times, being the drug regimen tested the highest number of times on mice comparing to all other drug regimens. Following by "Ramicane" tested 228 times, and "Ketapril" tested 188 times.
