@@ -21,5 +21,5 @@ Findings:
 
 - There is a fairly strong positive relationship existing between the average tumor volume and mouse weight for mice treated with "Capomulin" regimen (correlation coefficient between the two variables is 0.84). The marjority of points on the scatterplot lies fairly close to the line of best fit.
 
-![image](https://user-images.githubusercontent.com/120543690/221255629-93e3445c-831f-4479-a2e8-03066a2d93aa.png)
+  ![image](https://user-images.githubusercontent.com/120543690/221255629-93e3445c-831f-4479-a2e8-03066a2d93aa.png)
 
